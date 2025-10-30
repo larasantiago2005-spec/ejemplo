@@ -12,3 +12,5 @@ except:
     print("No pude abrir el archivo")
 finally:
     archivo.close()
+    print ("hola")
+    
